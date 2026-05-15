@@ -1,4 +1,4 @@
-# 
+# professional uniswap trading bot | transaction-batching + rug-pull-detection is the best uniswap trading bot, featuring transaction-batching and rug-pull-detection. Smart, fast,
 
 
 
